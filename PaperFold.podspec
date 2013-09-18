@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "PaperFold"
-  s.version      = "1.1"
+  s.version      = "1.2"
   s.summary      = "Paper folding animation for iOS."
   s.description  = <<-DESC
                     PaperFold is a simple iOS control that allows hiding of views on the 

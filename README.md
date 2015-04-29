@@ -1,4 +1,4 @@
-Note to self: This is a fork of Paperfold with all of the gesture recognizers turned off, since they were creating a few obstacles on an app that didn't need them anyway. Don't delete ;)
+**Note to self:** *This is a fork of Paperfold with all of the gesture recognizers turned off, since they were creating a few obstacles on an app that didn't need them anyway. Don't delete ;)*
 
 
 PaperFold for iOS
